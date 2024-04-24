@@ -7,39 +7,39 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-📕 [Clique aqui para ler](link_para_o_ebook)
+📕 [Clique aqui para ler](https://github.com/NatashaB-randao/Prompts-to-Create-a-Ebook/tree/main/Ebook)
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - ChatGPT
-- MidJourney
-- PowerPoint
+- Adobe Firefly
+- Canva
 
 ## 🧠 Prompts
 
 ### ChatGPT:
 
 #### Título
-Crie um título de um ebook sobre o tema de CSS. O ebook é do nicho de programação e o subnicho é de CSS. O título deve ser épico e curto, e ter uma temática de Star Wars. Liste 5 variações de títulos.
+Crie um título de um ebook sobre o tema de Data Science, o ebook é do nicho de programação e o subnicho é de Data Science. O título deve ser épico e curto, e tenha uma temática mais nerd, me liste 5 variações de títulos
 
 #### Conteúdo
-Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código. 
+Faça um texto para ebook, como foco em Data Science, listando os tópicos da área.
 
 {REGRAS}
-- Explique sempre de uma maneira simples
-- Deixe o texto enxuto
-- Sempre traga exemplos de código em contextos reais
-- Sempre deixe um título sugestivo por tópico
+>Explique sempre de uma maneira simples
+>Textos grandes
+>Sempre traga exemplos de código em contextos reais
+>Sempre deixe um título sugestivo por tópico
 
-### Midjourney:
+### Adobe Firefly:
 
 #### Título
-A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1
+Assets/Firefly Algorithms and Mystery - Uncovering the World of Data Science. Sherlock Holmes with magnifyi
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Adobe Firefly
 
 ## 📚 Materiais
 
@@ -48,5 +48,5 @@ A jedi in meditation pose, with your blue lightsaber floating, pixel art style -
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice ou InDesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Canva, LibreOffice ou InDesign para diagramação.
 ```
