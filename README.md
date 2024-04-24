@@ -7,7 +7,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-📕 [Clique aqui para ler](https://github.com/NatashaB-randao/Prompts-to-Create-a-Ebook/tree/main/Ebook)
+📕 [Clique aqui para ler](https://github.com/NatashaB-randao/Prompts-to-Create-a-Ebook/blob/main/Ebook/Algoritmos%20e%20Mistérios%20-%20Desvendando%20o%20Mundo%20da%20Data%20Science.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
